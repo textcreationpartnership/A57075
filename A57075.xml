@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Resolution of the right Honourable the Earl of Essex, lord generall of all his forces for the preservation of His Majesty and Parliament with a speech made by the Lord Roberts to His Excellence : also the manner of his setting forward and his passing through the city ... also the wicked purpose and intention of one F. Gowrie to have killed His Excellence ... also the apprehending of the Lord Montague ...</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57075</idno><idno type="EEBO-CITATION">10488154</idno>
+  <idno type="VID">45142</idno>
+  <idno type="EEBO-PROQUEST">2248498201</idno>
+  
+            <idno type="STC">Wing R1155</idno>
+            <idno type="STC">ESTC R28266</idno>
+            <idno type="OCLC">10488154</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1389:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Resolution of the right Honourable the Earl of Essex, lord generall of all his forces for the preservation of His Majesty and Parliament with a speech made by the Lord Roberts to His Excellence : also the manner of his setting forward and his passing through the city ... also the wicked purpose and intention of one F. Gowrie to have killed His Excellence ... also the apprehending of the Lord Montague ...</title>
+               </titleStmt>
+               <extent>[1], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1566-1601.</term>
+               <term type="personal_name">Radnor, John Robartes, --  Earl of, 1606-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45142:1"/>
+            <pb facs="tcp:45142:1"/>
+            <p>The Resolution of the Right Honourable the Earl of <hi>Essex</hi> his Excellence, Lord Generall of all his Forces for the preser<g ref="char:EOLhyphen"/>vation of His Majesty and Parliament.</p>
+            <p>With a Speech made by the Lord <hi>Roberts</hi> to his Excellence: Also the man<g ref="char:EOLhyphen"/>ner of his setting forward and his passing through the City, being attended with much expression of love by all the Traine Band, and many other Citi<g ref="char:EOLhyphen"/>zens of worth. Also the wicked purpose and intention of one <hi>F. Gowrie,</hi> to have killed his Excellence, being hired thereunto by some Papists, and was upon his confession thereof whipped from Westminster to Al<g ref="char:EOLhyphen"/>gate. Also the apprehending of the Lord <hi>Montague,</hi> being with 100. Horse brought up to the Parliament.</p>
+            <figure/>
+            <p>Printed at London for <hi>Thomas Bankes.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:45142:2"/>
+            <head>Of the Earle of <hi>Essex</hi> his departure from London, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He expected day designed for the Right Honourable the Earle of <hi>Essex</hi> departure being come, which was the <hi>9.</hi> of September, he with great solemnity tooke his leave of both Houses of Parliament with much apprecation of happinesse, then being gloriously attended to his house, he went from thence accompanied with many followers unto the new Ar<g ref="char:EOLhyphen"/>tillery yard, and so from thence he read directly forward, the Citi<g ref="char:EOLhyphen"/>zens with much expression of love waiting on him, and an infinite number of people, whose hearts looking through their eyes impre<g ref="char:EOLhyphen"/>cated Heaven for the happinesse and prosperity of his Honours Re<g ref="char:EOLhyphen"/>solution, untill being come to Higate, he had a Sermon Prea<g ref="char:EOLhyphen"/>ched by Mr. <hi>Martin</hi> before his Excellence.</p>
+            <p>It pleased God to discover the wicked and divelish intention of one <hi>F. G.</hi> who by the instigation of some Papists, who had hired him to porpetrate the bloudy Act, reported that hee would kill the Earle of <hi>Essex</hi> before his going, and for harbouring such a wic<g ref="char:EOLhyphen"/>ked intention, he was the same day (as hee well deserved) whipt from Westminster to Algate, and so received condigne punish<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent for his offence.</p>
+            <p>Moreover the Lord <hi>Montague</hi> being a partaker with the ma<g ref="char:EOLhyphen"/>lignant Party, was the same day to the great joy of all well affe<g ref="char:EOLhyphen"/>cted people brought up to London, strongly guarded with a hun<g ref="char:EOLhyphen"/>dred horse, to be presented as a delinquent to the Parliament.</p>
+         </div>
+         <div type="speech">
+            <pb n="1" facs="tcp:45142:2"/>
+            <head>A Speech made unto the Earle of ESSEX his Excellency, by the Lord <hi>Roberts,</hi> Sonne in Law to the Honourable Earle of WARWICK.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know unto whom I speake, and therefore the addresse of my Speech shall rather bee a commendation, than an admonition to your Honour, in matters of Knowledge and Valour; your noble Spirit being the Magazine and Armory of knowing magnanimity, whi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h together with other vertues inherent in your soule, ren<g ref="char:EOLhyphen"/>der you the most Illustrious example of true Nobility. I need not commemorate here the noble actions of your worthy father, whom the Commons doe still remem<g ref="char:EOLhyphen"/>ber with a reverend adoration, thinking all the prayses and prayers that they can accumulate on the name of
+<pb n="2" facs="tcp:45142:3"/>
+               <hi>Essex,</hi> to be poore sacrifices of their unfeigned love and affection, which being derived from your noble father, is now with the same fervour and heat of applause, by the generall vote of the people, cast upon your Ho<g ref="char:EOLhyphen"/>nourable Excellence. But because it is but the part of a Schoole Orator, to endevour with the Stars of Rheto<g ref="char:EOLhyphen"/>ricall figures to illustrate the brightnesse of the Sunne, to prayse the beauty of the Spring, rich in the dowry of na<g ref="char:EOLhyphen"/>ture, or generally to shadow out the exact portracture of any thing that carryes in it selfe a compleat perfection: it would now appear an extravagant affectation of words to amplifie your Lordships troops of Militant vertues, shining in you as in the thrice Honourable Son of <hi>Essex</hi> valour, your breast being pregnant and swelling with all the naturall gifts of a compleat and Heroick Generall.</p>
+            <p>It will become me therefore to leave the discourse of your generally acknowledged prayse, since the hearts and hands, and tongues of the Commons united together, doe with the utmost strength of good will crye <hi>Vives le Roy &amp; Essex,</hi> God save the King and <hi>Essex,</hi> that goes for the safety of the King, and the generall good of the Kingdome.</p>
+            <p>This Warre my Lord hath a various object; the occa<g ref="char:EOLhyphen"/>sion hath beene formerly manifested; the malignant par<g ref="char:EOLhyphen"/>ty, and instigators thereof are well knowne, and distin<g ref="char:EOLhyphen"/>guished into kinds, as Papists and their adherents, to<g ref="char:EOLhyphen"/>gether with evill Counsellors; but we hope and doe be<g ref="char:EOLhyphen"/>leeve with a faithfull truely grounded confidence, that the event shall with severe Iustice teach those revolting fire-brands of dissention, that <hi>malum Consilium Consulto<g ref="char:EOLhyphen"/>ri pessimum,</hi> Their evill Counsell shall be revenged on them that were the evill Counsellours.</p>
+            <pb n="3" facs="tcp:45142:3"/>
+            <p>If your Honour look into the materiall part of this intended warre, your Lordship may discerne there a Parliament oppos'd and oppressed in right and privi<g ref="char:EOLhyphen"/>ledge: nay, this Parliament, which must under God be the preserver of three Kingdomes: This Parliament, which is the last hope of the long oppressed Protestant Religion: This Parliament, which doth preserve the Rights and Liberties of the Subject, and doth endevour to correct all injustice and oppression, by which also publike dangers and feares are prevented: Lastly, this Parliament which is the only means to continue us to be a nation of free-men and not slaves, and to be owners of any thing that we may call our own, in a word this Par<g ref="char:EOLhyphen"/>liament which hath so couragiously endeavoured to pre<g ref="char:EOLhyphen"/>vent an inundation of all misery &amp; confusion, and indeed the very desolation and ruine of this Kingdome.</p>
+            <p>This Parliament my Lord, through an inveterate ma<g ref="char:EOLhyphen"/>lice thay desire to destr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, but I hope it will destroy the destroyers, and be a wall of fire to consume them, as it is a wall of brasse to us, to defend King and Kingdome, us, and all we can call ours.</p>
+            <p>The clouds that are like to make this foule day of war did first gather very fast together at Yorke, there keeping the beames of his Majesties favour from shining upon his Parliament and people, and now they threaten a sud<g ref="char:EOLhyphen"/>daine bloody storme, but as clouds full gorged with va<g ref="char:EOLhyphen"/>pours do commonly weepe out themselves in showres of raine, and having emptied their own substance, vanish, so it is to be hoped that the great and pious preparations of the Parliament will either dissipate these appearing clouds or civill war, or else force them to quench this fire of dis<g ref="char:EOLhyphen"/>sention
+<pb n="4" facs="tcp:45142:4"/> by them raised, even with a showre of their owne bloud. But what are strength or forces but motions and dumb showes of war, unlesse they receive a quickning vertue from their magnanimous Commanders? from your Excellence (my Lord) the souldiers receive animatio on, courage, life, flame, &amp; valiant hearts, <hi>nil desperandum est auspice Christo, &amp; Duce comite Essexiae,</hi> they are con<g ref="char:EOLhyphen"/>fident of victory through God and your Excellencies magnanimity, they looke on you as the <hi>Coriphaeus</hi> and sum of valour, and the matchlesse Phoenix of a noble fa<g ref="char:EOLhyphen"/>ther, some sacred charm dwels in the name of <hi>Essex</hi> that with so sweet a violence attracts the iron-hearted souldi<g ref="char:EOLhyphen"/>er to follow your Excellence as their honourable and be<g ref="char:EOLhyphen"/>loved adamant, or rather your constant faithfull heart to King and Country, hath given you a fixed seate in popu<g ref="char:EOLhyphen"/>lar affection. Thus the souldiers do by a loving Sympa<g ref="char:EOLhyphen"/>thy with your honour, and your Honours Ancestors, de<g ref="char:EOLhyphen"/>rive from you the influence of their courage and forward resolution to attend your Honour, while you fetch your <hi>Promethean</hi> fire from heaven, advancing forward with a strong army and with noble intents, the safety of the K. the preservation of the Protestant Religion, the subduing all malignants, the free priviledge of the Subject, and the good of the Kingdome and Common-wealth being the only end of this great expedition under you their honou<g ref="char:EOLhyphen"/>rable Excellence.</p>
+            <p>There is no greater joy nor happinesse in a Common<g ref="char:EOLhyphen"/>wealth in times of apparent danger, than to have some heroike <hi>Atlas,</hi> in whose supporting fidelity they may confide, and that through the assistance of Almighty God will like another <hi>Ioshua</hi> undertake to fight their battels.
+<pb n="5" facs="tcp:45142:4"/> There was ever in other Common-wealths an <hi>Alcibiades</hi> a <hi>Themistocles</hi> and some valiant Captains or other that in the pressures and grievances of the state of their Coun<g ref="char:EOLhyphen"/>try took courage to defend it from a civill war, and now in these times of distractions, when the sword threatens to impose a tyranny on the Subject, the divine power hath, encited and encouraged the Earle of Essex his Excellence with a free and noble resolution to undertake either a desired pacification between the King and his Parliament if it may be obtayned, or else a vindication and revenge a<g ref="char:EOLhyphen"/>gainst those Cavalliers and malignants that do either se<g ref="char:EOLhyphen"/>duce the King or oppose the Parliament. And as his no<g ref="char:EOLhyphen"/>ble valiant father was so deare unto the people that his name is never mention'd but with much expressions of love and affection, as if they would never forget his ser<g ref="char:EOLhyphen"/>vice in many noble designes, so that he may shew that <hi>for<g ref="char:EOLhyphen"/>tes creantur fortibus,</hi> valour is derived from the Ancestory to the Posterity, hath now by the votes of the Parliament, and the desire of the Commons, buckled on his armour, intending to carry a defensive army into the oppressed parts of this Kingdome, now pillaged by the outrages of hostility, and though he goes forth strongly accommo<g ref="char:EOLhyphen"/>dated with all warlike ammunition, and with many troops of Souldiers drawn out of the City and Countrey, who with cheerfull willingnesse will declare their courage in this expedition, yet his strongest confidence and reso<g ref="char:EOLhyphen"/>lution consists in the goodnesse and justnesse of his cause.</p>
+            <p>It is not to adde more illustrious titles to his name, for he hath honour enough derived unto him from his father and also inherent in him by his living vertues, but he de<g ref="char:EOLhyphen"/>sires to do service for the King in beating off those flyes and parasites that have whispered so much evil counsel in<g ref="char:EOLhyphen"/>to
+<pb n="6" facs="tcp:45142:5"/> the Kings eare, thereby to alienate his affection from his loyall Parliament and people, for it is better in all po<g ref="char:EOLhyphen"/>liticall justice, that some ill-affected members should be cut off, rather than the whole body of the Common<g ref="char:EOLhyphen"/>wealth should perish, and besides, the liberty of the Sub<g ref="char:EOLhyphen"/>ject is precious and ought to be maintained, that we may know our own, possesse our own, &amp; keep our own, &amp; that the Kingdom may not be converted into a countrey of Pesants or slaves as France is, where the King at his free will and pleasure exercising an arbitrary power &amp; tyran<g ref="char:EOLhyphen"/>nical government, doth upon any accasion squeez his sub<g ref="char:EOLhyphen"/>jects like so many oranges, &amp; if they suffer not themseves to be thus pillaged, their goods upon the least resistance are confiscated, but if this be not worth defending, yet who would not adventure life for that which is the life of his soule, the Protestant Religion, which is in danger now to be changed againe into Popery, should the ma<g ref="char:EOLhyphen"/>lignants and papists get the victory. On these grounds and reasons the Earle of <hi>Essex</hi> his Excellence hath under<g ref="char:EOLhyphen"/>took the common cause being full of Iustice, piety, and Religion, is now gone forth under the propitious favour of God with a numerous and innumerable army collected out of the City and Countrey, well appointed and provi<g ref="char:EOLhyphen"/>ded with all sorts of ammunition, &amp; consisting of 40000 brave and resolute souldiers, who advance forward under the command of the said Earle of <hi>Essex</hi> his <hi>Excellence,</hi> to settle an established peace, or confound the malice of these Machavilian counsellors and mischievous bloody Cavalliers, who are enemies to the King and Kingdome, God blesse and prosper his noble purpose and resolution, to the good of the King, Kingdome, and Commons of England.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45142:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
